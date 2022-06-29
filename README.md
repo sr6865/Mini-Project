@@ -58,7 +58,7 @@ Note: WSL by default will install an image of Ubuntu Linux, however any other Li
 
 # EXECUTING THE PROGRAM
 1. For execution of the program, click on the "Code" button at the top and select "Download as ZIP". Alternatively, if you have git set up on your system, you can use the CLI to download the files in this repository using the command
-`git clone `
+`git clone https://github.com/sr6865/Mini-Project`
 2. After downloading the files, navigate to the folder and right click in an empty space in your file manager. There select the option "Open in Terminal"(macOS/Linux/Windows 11) or "Open in Powershell"(Windows 10 or older). However, you can also use your preffered IDE (Visual Studio Code, CodeBlocks etc.) to run the code, this guide shows you how to do it using the command line.
 3. In the command line, type `gcc vinylmanagement.c -o vinylmgmt` to compile the "vinylmanagement.c" file into an executable "vinylmgmt" using GCC.
 4. Now type `./vinylmgmt` to execute the code.
