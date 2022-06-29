@@ -1,7 +1,10 @@
 # INTRODUCTION
 This program is a vinyl management system which allows the user to add and search storage records of music vinyls.
 
-This program was tested on EndeavourOS, a rolling release operating system based on Arch Linux, however it should also run on machines running Microsoft Windows 10/11, Apple macOS 11 or above, and other Linux distributions such as Debian, Ubuntu, Fedora etc.
+This program was tested on EndeavourOS, a rolling release operating system based on Arch Linux, however it should also run on machines running Microsoft Windows 10/11, Apple macOS 11 or above, and other Linux distributions such as Debian, Ubuntu, Fedora etc. given
+
+1. The required dependencies are fulfilled
+2. Some slight modifications might have to be made in the code in the event the code doesn't work.
 
 # MINIMUM SYSTEM REQUIREMENTS
 
@@ -12,11 +15,6 @@ RAM: Atleast 4GB
 Storage: Atleast 10MB
 
 Operating Sysytem: Microsoft Windows 10/11, Apple macOS 11 or above, and any Linux distributions
-
-NOTE: While this program was tested on Arch Linux, it should also run on other operating systems given
-
-1. The required dependencies are fulfilled
-2. Some slight modifications might have to be made in the code in the event the code doesn't work.
 
 # PRE EXECUTION SETUP
 1. Linux:
