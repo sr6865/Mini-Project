@@ -63,11 +63,4 @@ Note: WSL by default will install an image of Ubuntu Linux, however any other Li
 3. In the command line, type `gcc vinylmanagement.c -o vinylmgmt` to compile the "vinylmanagement.c" file into an executable "vinylmgmt" using GCC.
 4. Now type `./vinylmgmt` to execute the code.
 
-# SCOPE OF IMPROVEMENT
-1. This code has a bug where data with spaces is split between different datatypes, so data has to be entered without spaces for now. This can be rectified in the future.
-2. A more simpler and less cluttered frontend can be designed, possibly a GUI interface.
-3. The code can be cleaned out and refined for better performance and response times.
-
 Made by Siddharth Saxena(RA2111030010029)
-
-All rights go to their respective owners.
